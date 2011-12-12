@@ -1,5 +1,7 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/rocket_pants/rpm/version', __FILE__)
+
+$LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
+require 'rocket_pants/rpm/version'
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Darcy Laycock"]
