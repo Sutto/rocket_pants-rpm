@@ -1,6 +1,6 @@
-# RocketPants::Rpm
+# rocket_pants-rpm
 
-TODO: Write a gem description
+Provides support for making `RocketPants::Base` work with RPM.
 
 ## Installation
 
@@ -12,13 +12,7 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install rocket_pants-rpm
-
-## Usage
-
-TODO: Write usage instructions here
+And you're done. NewRelic RPM will then work as expected.
 
 ## Contributing
 
@@ -27,3 +21,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+This extension is released under the MIT License (see the [license file](https://github.com/filtersquad/rocket_pants-rpm/blob/master/LICENSE)) and is copyright Filter Squad, 2012.

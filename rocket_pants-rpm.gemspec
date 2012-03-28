@@ -5,7 +5,7 @@ require 'rocket_pants/rpm/version'
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Darcy Laycock"]
-  gem.email         = ["sutto@sutto.net"]
+  gem.email         = ["darcy@filtersquad.com"]
   gem.description   = %q{Integrates RocketPants and RPM for great success.}
   gem.summary       = %q{Provides rpm-instrumentation for RocketPants.}
   gem.homepage      = ""
